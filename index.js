@@ -22,7 +22,7 @@ var api = new ParseServer({
   },
   oauth: {
    facebook: {
-     appIds: "FACEBOOK APP ID"
+     appIds: "147858575677002"
    },
    google: true
   }
